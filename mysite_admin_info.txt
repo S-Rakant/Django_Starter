@@ -1,0 +1,3 @@
+username:Sousuke
+mail:sousuke2020416@gmail.com
+pw:rakanto0416
